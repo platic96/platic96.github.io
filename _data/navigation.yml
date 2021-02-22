@@ -3,7 +3,7 @@ main:
   - title: "Home"
     url: https://platic96.github.io
   - title: "DataBase"
-    url: https://platic96.github.io/DataBase/
+    url: /DataBase/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
