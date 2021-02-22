@@ -2,8 +2,8 @@
 main:
   - title: "Home"
     url: https://platic96.github.io
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
+  - title: "DataBase"
+    url: https://platic96.github.io/DataBase/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
