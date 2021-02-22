@@ -1,6 +1,6 @@
 ---
-title: "Posts by DataBase"
-layout: DataBase
-permalink: /DataBase/
+title: "Posts by Category"
+layout: categories
+permalink: /categories/
 author_profile: true
 ---
